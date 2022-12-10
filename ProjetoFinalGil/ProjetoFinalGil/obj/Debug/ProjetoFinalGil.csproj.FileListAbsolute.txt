@@ -1,0 +1,55 @@
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.AssemblyReference.cache
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.CadastrarCliente.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.Properties.Resources.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.GenerateResource.cache
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.CoreCompileInputs.cache
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\bin\Debug\ProjetoFinalGil.exe.config
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\bin\Debug\ProjetoFinalGil.exe
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\bin\Debug\ProjetoFinalGil.pdb
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.exe
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.pdb
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\bin\Debug\ProjetoFinalGil.exe.config
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\bin\Debug\ProjetoFinalGil.exe
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\bin\Debug\ProjetoFinalGil.pdb
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.AssemblyReference.cache
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.CadastrarCliente.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.Properties.Resources.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.GenerateResource.cache
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.CoreCompileInputs.cache
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.exe
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.pdb
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.ListaCliente.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\bin\Debug\ProjetoFinalGil.exe.config
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\bin\Debug\ProjetoFinalGil.exe
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\bin\Debug\ProjetoFinalGil.pdb
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.AssemblyReference.cache
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.CadastrarCliente.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.ListaCliente.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.Properties.Resources.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.GenerateResource.cache
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.csproj.CoreCompileInputs.cache
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.exe
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.pdb
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.CadastrarProprietario.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.ListarProprietario.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.ListarFuncionarios.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.CadastrarFuncionarios.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.Pagar_Contas.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.VendasProdutos.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.MenuMercearia.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.frmConsultarEstoque.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.ConsultarClientes.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.CadastrarFuncionarios.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.CadastrarProprietario.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.ConsultarClientes.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.frmConsultarEstoque.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.ListarFuncionarios.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.ListarProprietario.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.MenuMercearia.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.Pagar_Contas.resources
+C:\Users\CJ3011348\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.VendasProdutos.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.FaturamentoMensal.resources
+C:\Users\Gilmar\OneDrive - ifsp.edu.br\4° semestre\MARQUES LP2A4 - 2022\ProjetoFinalGil\ProjetoFinalGil\obj\Debug\ProjetoFinalGil.SistemaGestao.resources
